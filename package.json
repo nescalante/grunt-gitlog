@@ -25,11 +25,12 @@
   },
   "homepage": "https://github.com/nescalante/grunt-gitlog",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "underscore": "^1.6.0"
   },
   "dependencies": {
     "underscore": "^1.6.0"
-  }
+  },
   "peerDependencies": {
     "grunt": "^0.4.5"
   }
