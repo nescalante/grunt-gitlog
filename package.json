@@ -1,0 +1,27 @@
+{
+  "name": "grunt-gitlog",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nescalante/grunt-gitlog.git"
+  },
+  "keywords": [
+    "git",
+    "log",
+    "grunt"
+  ],
+  "author": {
+    "name": "Nicolás Escalante",
+    "email": "nlante@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nescalante/grunt-gitlog/issues"
+  },
+  "homepage": "https://github.com/nescalante/grunt-gitlog"
+}
