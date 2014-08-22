@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/nescalante/grunt-gitlog/issues"
   },
-  "homepage": "https://github.com/nescalante/grunt-gitlog"
+  "homepage": "https://github.com/nescalante/grunt-gitlog",
+  "devDependencies": {
+    "underscore": "^1.6.0",
+    "grunt": "^0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
