@@ -1,5 +1,7 @@
 # grunt-gitlog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/grunt-gitlog.svg)](https://greenkeeper.io/)
+
 > Git log to json
 
 ## Getting Started
